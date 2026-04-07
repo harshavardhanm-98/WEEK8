@@ -10,5 +10,6 @@ int main() {
     int myNumbers[] = {10, 20, 30, 40, 50};
     int n = 5;
    displayArray(myNumbers, n);
+   printf("\nREG NO:25331A05I5");
     return 0;
 }
