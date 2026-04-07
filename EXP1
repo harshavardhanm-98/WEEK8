@@ -1,5 +1,4 @@
 #include <stdio.h>
-// Function declaration
 int findSum(int a, int b);
 int main() {
     int num1, num2, res;
@@ -7,9 +6,9 @@ int main() {
     scanf("%d %d", &num1, &num2);
     res = findSum(num1, num2);
     printf("Sum = %d\n", res);
+    printf("\nREG NO:25331A05I5");
     return 0;
 }
-// Function definition
 int findSum(int a, int b) {
     return a + b;
 }
